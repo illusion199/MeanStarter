@@ -1,0 +1,8 @@
+//install anguler cli globally
+$ npm install @angular/cli -g
+$ ng build
+$ npm install express body-parser --save
+
+
+// for setting destination path to application 
+"C:\Program Files\MongoDB\Server\3.6\bin\mongod.exe" --dbpath "c:\data\mongodb"
